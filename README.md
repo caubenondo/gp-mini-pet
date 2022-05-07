@@ -1,7 +1,7 @@
 # gp-mini-pet
 A virtual mini pet game
 
-https://monacoglynn.github.io/gp-mini-pet/
+https://caubenondo.github.io/gp-mini-pet/
 
 ### project title Burauza no Akachan (Browser Babies)
 
